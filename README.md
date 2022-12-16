@@ -13,4 +13,15 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 4. Build solana pay onboarding tutorial with the power of GPT-3 assistant. 
    - Build prompt chaining to answer specific questions
 
-TBD
+5. Generate comics text with GPT-3, and graphic with Stable Diffusion
+   - This is insane
+
+
+# Misc ideas make the process better
+
+1. Create content that keeps a record on N&W process.
+   - Blog post may be boring, anime or short clips may work.
+
+2. Keep posting progress on twitter.
+   - Build in public is important, every day would be cool, which I've never done before.
+
