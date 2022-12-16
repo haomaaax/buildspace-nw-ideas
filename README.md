@@ -16,6 +16,9 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 5. Generate comics text with GPT-3, and graphic with Stable Diffusion
    - This is insane
 
+6. Chrome extension that help people doing boring things (productivity or just for fun)
+   - Enlighten by GPT-3 writer project, should ship an official chrome extension to production.
+
 
 # Misc ideas make the process better
 
