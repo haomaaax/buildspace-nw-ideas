@@ -19,6 +19,12 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 6. Chrome extension that help people doing boring things (productivity or just for fun)
    - Enlighten by GPT-3 writer project, should ship an official chrome extension to production.
 
+7. Solana marketplace that focusing on creator can easily sell their works
+   - like solana shopify
+   
+8. Life gurus / Pocket genies WebApp
+   - Focus on building prompt chaining examples.
+   - Given multiple inputs and provide specific advice on anything.
 
 # Misc ideas make the process better
 
