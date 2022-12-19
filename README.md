@@ -34,3 +34,8 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 2. Keep posting progress on twitter.
    - Build in public is important, every day would be cool, which I've never done before.
 
+# Main ideas to build in 6 weeks
+
+1. Leverage GPT-3 power to generate great prompt chaining.
+
+2. Create solana marketplace for selling works.
