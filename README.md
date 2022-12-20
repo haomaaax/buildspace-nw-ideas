@@ -39,3 +39,9 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 1. Leverage GPT-3 power to generate great prompt chaining.
 
 2. Create solana marketplace for selling works.
+
+# Feedbacks collected from twitter posts (create comic with AI)
+
+1. How to make characters consistent with prompt? (I think this prompt engineering, but what need to be shipped should stay simple)
+2. Start with comic cover (this is good)
+3. customize generated graphics (maybe frontend effort)
