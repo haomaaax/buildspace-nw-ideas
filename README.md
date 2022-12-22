@@ -33,6 +33,9 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 
 2. Keep posting progress on twitter.
    - Build in public is important, every day would be cool, which I've never done before.
+   
+3. Make prompt chaining result with twitter thread sharing format.
+   - make generated storyline can be shared to twitter with one click.
 
 # Main ideas to build in 6 weeks
 
