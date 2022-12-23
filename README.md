@@ -37,6 +37,10 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 3. Make prompt chaining result with twitter thread sharing format.
    - make generated storyline can be shared to twitter with one click.
 
+4. Make extension is idea collector
+   - store ideas with right click save
+   - paste them on sparkler website to generate storyline and graphics
+
 # Main ideas to build in 6 weeks
 
 1. Leverage GPT-3 power to generate great prompt chaining.
