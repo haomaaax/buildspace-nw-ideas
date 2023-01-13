@@ -31,21 +31,24 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 1. Create content that keeps a record on N&W process.
    - Blog post may be boring, anime or short clips may work.
 
-2. Keep posting progress on twitter.
+2. Keep posting progress on twitter. V
    - Build in public is important, every day would be cool, which I've never done before.
    
 3. Make prompt chaining result with twitter thread sharing format.
    - make generated storyline can be shared to twitter with one click.
+   - Might be unnecessary.
 
 4. Make extension is idea collector
    - store ideas with right click save
    - paste them on sparkler website to generate storyline and graphics
+   - update: extension have some crashing issue that need to be fixed.
 
 # Main ideas to build in 6 weeks
 
 1. Leverage GPT-3 power to generate great prompt chaining.
 
 2. Create solana marketplace for selling works.
+   - Want to save this one for next season (S3)
 
 # Feedbacks collected from twitter posts (create comic with AI)
 
