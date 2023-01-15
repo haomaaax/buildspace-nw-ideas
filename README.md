@@ -1,5 +1,5 @@
 # buildspace-nw-ideas
-Store my ideas on nights and weekends S2, and put cool things together in 6 weeks.
+Store my ideas on buildspace nights and weekends.
 
 1. Merchant enablement system with Solana Pay
    - Ref: https://build.superteam.fun/article/merchant-enablement-for-solana-pay
@@ -30,31 +30,37 @@ Store my ideas on nights and weekends S2, and put cool things together in 6 week
 
 1. Create content that keeps a record on N&W process.
    - Blog post may be boring, anime or short clips may work.
+   - Haven't do this in S2, only twitter posts.
 
-2. Keep posting progress on twitter. V
+2. Keep posting progress on twitter.
    - Build in public is important, every day would be cool, which I've never done before.
+   - Done this in S2.
    
 3. Make prompt chaining result with twitter thread sharing format.
    - make generated storyline can be shared to twitter with one click.
-   - Might be unnecessary.
+   - Make it 4 comic strip format
 
 4. Make extension is idea collector
    - store ideas with right click save
    - paste them on sparkler website to generate storyline and graphics
-   - update: extension have some crashing issue that need to be fixed.
+   - update: extension have some crashing issue that need to be fixed. Need a user scenario to solve problem.
 
 # Main ideas to build in 6 weeks
 
 1. Leverage GPT-3 power to generate great prompt chaining.
+   - Done in S2 ;)
 
 2. Create solana marketplace for selling works.
    - Want to save this one for next season (S3)
 
 # Feedbacks collected from twitter posts (create comic with AI)
 
-1. How to make characters consistent with prompt? (I think this prompt engineering, but what need to be shipped should stay simple)
-2. Start with comic cover (this is good)
-3. customize generated graphics (maybe frontend effort)
+1. How to make characters consistent with prompt? 
+   - I think this prompt engineering, but what need to be shipped should stay simple.
+2. Start with comic cover
+   - Haven't don this and this is good idea to focus on one single thing.
+3. customize generated graphics
+   - seems complicated in current stage, put in backlog.
 
 
 # Demo day plan
