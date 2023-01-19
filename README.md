@@ -26,6 +26,11 @@ Store my ideas on buildspace nights and weekends.
    - Focus on building prompt chaining examples.
    - Given multiple inputs and provide specific advice on anything.
 
+9. Dream decoder
+   - Input dreamed elements
+   - Complete unfinished dream
+   - Draw manga graphics for your dream
+
 # Misc ideas make the process better
 
 1. Create content that keeps a record on N&W process.
