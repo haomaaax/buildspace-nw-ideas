@@ -30,6 +30,7 @@ Store my ideas on buildspace nights and weekends.
    - Input dreamed elements
    - Complete unfinished dream
    - Draw manga graphics for your dream
+   - Help mental health
 
 # Misc ideas make the process better
 
